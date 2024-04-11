@@ -9,5 +9,7 @@
 ## Connect with me:
 
 **Twitter: https://twitter.com/ether_stellar**
+
 **Telegram: https://t.me/ether_stellar**
-**Website: https://eyherstellar.my.canva.site**
+
+**Website: https://etherstellar.my.canva.site**
